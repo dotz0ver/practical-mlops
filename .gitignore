@@ -1,0 +1,19 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore pytest cache
+.pytest_cache/
+.cache/
+coverage/
+.coverage
+
+# Ignore virtual environments
+env/
+venv/
+.practical-mlops/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
