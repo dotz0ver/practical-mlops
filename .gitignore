@@ -12,7 +12,7 @@ coverage/
 # Ignore virtual environments
 env/
 venv/
-.practical-mlops/
+practical-mlops/
 
 # Ignore system files
 .DS_Store
